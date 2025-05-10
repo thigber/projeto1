@@ -1,0 +1,1 @@
+console.log("Aplicação DevSecOps exemplo rodando.");

@@ -1,0 +1,11 @@
+{
+  "name": "devsecops-exemplo",
+  "version": "1.0.0",
+  "description": "Exemplo simples de projeto com DevSecOps",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Executando testes...\" && exit 0"
+  },
+  "author": "Aluno",
+  "license": "ISC"
+}
